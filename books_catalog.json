@@ -1,0 +1,128 @@
+[
+  {
+    "id": "alkafi",
+    "title": "الکافی",
+    "filename": "alkafi.db",
+    "coverColor": "0xFF2E7D32",
+    "isBundled": true,
+    "downloadUrl": "https://github.com/muhammadhussain85/Ahadith-al-shia/releases/download/v1.0.0/alkafi.db",
+    "fileSizeMB": 18.5
+  },
+  {
+    "id": "manlahyahzur",
+    "title": "من لا یحضرہ الفقیہ",
+    "filename": "manlahyahzur.db",
+    "coverColor": "0xFF0277BD",
+    "isBundled": true,
+    "downloadUrl": "https://github.com/muhammadhussain85/Ahadith-al-shia/releases/download/v1.0.0/manlahyahzur.db",
+    "fileSizeMB": 14.2
+  },
+  {
+    "id": "Tahzeeb",
+    "title": "تہذیب الاحکام",
+    "filename": "Tahzeeb.db",
+    "coverColor": "0xFF880E4F",
+    "isBundled": true,
+    "downloadUrl": "https://github.com/muhammadhussain85/Ahadith-al-shia/releases/download/v1.0.0/Tahzeeb.db",
+    "fileSizeMB": 16.0
+  },
+  {
+    "id": "towheed",
+    "title": "کتاب التوحید",
+    "filename": "towheed.db",
+    "coverColor": "0xFF558B2F",
+    "isBundled": false,
+    "downloadUrl": "https://github.com/muhammadhussain85/Ahadith-al-shia/releases/download/v1.0.0/towheed.db",
+    "fileSizeMB": 2.76
+  },
+  {
+    "id": "alkhisal",
+    "title": "الخصال",
+    "filename": "alkhisal.db",
+    "coverColor": "0xFF00695C",
+    "isBundled": false,
+    "downloadUrl": "https://github.com/muhammadhussain85/Ahadith-al-shia/releases/download/v1.0.0/alkhisal.db",
+    "fileSizeMB": 3.74
+  },
+  {
+    "id": "kamaledeen",
+    "title": "کمال الدین",
+    "filename": "kamaledeen.db",
+    "coverColor": "0xFF283593",
+    "isBundled": false,
+    "downloadUrl": "https://github.com/muhammadhussain85/Ahadith-al-shia/releases/download/v1.0.0/kamaledeen.db",
+    "fileSizeMB": 5.07
+  },
+  {
+    "id": "swab",
+    "title": "ثواب الاعمال",
+    "filename": "swab.db",
+    "coverColor": "0xFF00695C",
+    "isBundled": false,
+    "downloadUrl": "https://github.com/muhammadhussain85/Ahadith-al-shia/releases/download/v1.0.0/swab.db",
+    "fileSizeMB": 2.17
+  },
+  {
+    "id": "maniakbar",
+    "title": "معانی الاخبار",
+    "filename": "maniakbar.db",
+    "coverColor": "0xFF1565C0",
+    "isBundled": false,
+    "downloadUrl": "https://github.com/muhammadhussain85/Ahadith-al-shia/releases/download/v1.0.0/maniakbar.db",
+    "fileSizeMB": 2.89
+  },
+  {
+    "id": "mezan",
+    "title": "میزان الحکمہ",
+    "filename": "mezan.db",
+    "coverColor": "0xFF00838F",
+    "isBundled": false,
+    "downloadUrl": "https://github.com/muhammadhussain85/Ahadith-al-shia/releases/download/v1.0.0/mezan.db",
+    "fileSizeMB": 18.1
+  },
+  {
+    "id": "hakam",
+    "title": "غرر الحکم",
+    "filename": "hakam.db",
+    "coverColor": "0xFF455A64",
+    "isBundled": false,
+    "downloadUrl": "https://github.com/muhammadhussain85/Ahadith-al-shia/releases/download/v1.0.0/hakam.db",
+    "fileSizeMB": 1.94
+  },
+  {
+    "id": "hidaya",
+    "title": "ہدایۃ العلم",
+    "filename": "hidaya.db",
+    "coverColor": "0xFFD84315",
+    "isBundled": false,
+    "downloadUrl": "https://github.com/muhammadhussain85/Ahadith-al-shia/releases/download/v1.0.0/hidaya.db",
+    "fileSizeMB": 3.98
+  },
+  {
+    "id": "hikmatprophet",
+    "title": "حکمت نامہ رسول اکرم ص",
+    "filename": "hikmatprophet.db",
+    "coverColor": "0xFFAD1457",
+    "isBundled": false,
+    "downloadUrl": "https://github.com/muhammadhussain85/Ahadith-al-shia/releases/download/v1.0.0/hikmatprophet.db",
+    "fileSizeMB": 4.30
+  },
+  {
+    "id": "imam",
+    "title": "حکمت نامہ امام حسین ع",
+    "filename": "imam.db",
+    "coverColor": "0xFF6A1B9A",
+    "isBundled": false,
+    "downloadUrl": "https://github.com/muhammadhussain85/Ahadith-al-shia/releases/download/v1.0.0/imam.db",
+    "fileSizeMB": 2.12
+  },
+  {
+    "id": "wasail",
+    "title": "وسائل الشیعہ",
+    "filename": "wasail.db",
+    "coverColor": "0xFFC0CA33",
+    "isBundled": false,
+    "downloadUrl": "https://github.com/muhammadhussain85/Ahadith-al-shia/releases/download/v1.0.0/wasail.db",
+    "fileSizeMB": 31.7
+  }
+]
